@@ -202,3 +202,5 @@ Each availability zone (AZ) is one or more discrete data centers with redundant 
 
 ### AWS Points of Presence (Edge Locations)
 ---
+Amazon has 400+ Points of Presence (400+ Edge Locations & 10+ Regional Caches) in 90+ cities across 40+ countries
+- Content is delivered to end users with lower latency
